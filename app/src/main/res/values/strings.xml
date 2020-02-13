@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Biscoito da Sorte</string>
+    <string name="press_button">Pressione o botão abaixo para uma nova frase</string>
+    <string name="button_phrase">Nova Frase</string>
+</resources>
