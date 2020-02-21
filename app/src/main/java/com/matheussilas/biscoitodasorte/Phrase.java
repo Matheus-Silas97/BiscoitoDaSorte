@@ -71,8 +71,21 @@ public class Phrase {
                 "Nada é por acaso… Acredite em seus sonhos e nos seus potenciais...Na vida tudo se supera.",
                 "Você sempre será a sua melhor companhia.",
                 "Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado.",
-                "A descoberta consiste em ver o que todos viram e em pensar no que ninguém pensou."
-
+                "A descoberta consiste em ver o que todos viram e em pensar no que ninguém pensou.",
+                "Os problemas são oportunidades para se mostrar o que sabe.",
+                "Nossos fracassos, às vezes, são mais frutíferos do que os êxitos.",
+                "É costume de um tolo, quando erra, queixar-se dos outros. É costume de um sábio queixar-se de si mesmo.",
+                "O verdadeiro heroísmo consiste em persistir por mais um momento, quando tudo parece perdido.",
+                "Mesmo que já tenhas feito uma longa caminhada, há sempre um novo caminho a fazer.",
+                "Na prosperidade, nossos amigos nos conhecem; na adversidade, nós é que conhecemos nossos amigos.",
+                "A felicidade não está em fazer o que a gente quer, e sim querer o que a gente faz",
+                "Nada acontece a menos que sonhemos antes.",
+                "O talento vence jogos, mas só o trabalho em equipe vence campeonatos.",
+                "Sorte é o que acontece quando a preparação encontra a oportunidade.",
+                "O único lugar que o sucesso vem antes do trabalho é no dicionário.",
+                "A arte de escutar é como uma luz que dissipa a escuridão da ignorância.",
+                "Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado.",
+                "Só se pode alcançar um grande êxito quando nos mantemos fiéis a nós mesmos."
         };
 
         int num = new Random().nextInt(phrases.length);

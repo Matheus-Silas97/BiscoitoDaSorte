@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(Intent.ACTION_SEND);
         intent.putExtra(Intent.EXTRA_TEXT, txtPhrase.getText().toString());
         intent.setType("text/plain");
-        startActivity(intent.createChooser(intent, "Compartilhar"));
+        startActivity(intent.createChooser(intent, "Compartilhar com"));
 
     }
 }
